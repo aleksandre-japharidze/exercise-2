@@ -4,4 +4,4 @@ person = ["Dachi", 18];
 
 console.log(person);
 
-// All of it worked. Typescript allows changing of 
+// All of it worked. Typescript tuples are mutable
